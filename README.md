@@ -31,8 +31,7 @@ I built high quality, user centric iOS applications using Swift, ensuing optimal
 - 🔹 Provide information about identity theft and fraud and also guide users on how to stay safe from them.
 - 📲 Incorporated tap gestures to improve the app experience
   
-[//]: # " - ⌚️ Added a watch band preview feature so users can see what their face could like like with popular band options"
-- Other UI and bug fixes
+
 
 
 
@@ -55,6 +54,72 @@ In this app, users can build personalized portfolios that aligned with their val
 - 💰 IAP
 - 🎬 Animations
 - 📲 Incorporated tap gestures to improve the app experience
+
+
+
+
+# [Cytex Authenticator](https://apps.apple.com/us/app/cytex-authenticator/id1538584126)
+
+Cytex Aythenticator provides robuts multi-factor authentication for registered users, essential for enterprise IT security. Cytex Secure, using Wiregurad, facilitates secure peer-to-peer connections, while Cytex2FA manages identity within the Zero Trust Network Architecture.
+
+
+
+
+<p align="center">
+<img src="Cytex.png", width="600"/>
+
+</p>
+
+- ⚙︎ VPN Configuration
+- ⇄ MFA (Multi Factor Authentication)
+- ⇄ ZTNA (Zero Trust Network Architecture)
+- 💿 Core Data
+- 🎬 Animations
+- 📲 Incorporated tap gestures to improve the app experience
   
-[//]: # " - ⌚️ Added a watch band preview feature so users can see what their face could like like with popular band options"
-- Other UI and bug fixes
+
+
+
+
+
+
+# [My Parsl](https://apps.apple.com/pk/app/my-parsl/id1558433040)
+
+Celebrate special events with PARSL's immersive AR lenses and avatars, adding fun and excitement to your gatherings. Enhance your social experience by inviting friends to enjou interactive AR effects together, making every occasion joyful and memorable.
+
+
+
+
+<p align="center">
+<img src="hair.png", width="400"/>
+
+</p>
+
+- ⚙︎ AR kit
+- 💿 Core Data
+- 🎬 Animations
+- 📲 Incorporated tap gestures to improve the app experience
+  
+
+
+
+# [Christiane's Hair Design](https://apps.apple.com/pk/app/christianes-hair-design/id1579004647)
+
+This app allows you to book hair and beard services at our global salon branches worldwide. Enjoy the convenience of scheduling appointments and receiving discount coupons through the app.
+
+
+
+
+<p align="center">
+<img src="hair.png", width="600"/>
+
+</p>
+
+
+- 💿 Core Data
+- 🏦 App Storage
+- 💰 IAP
+- ⏱️ Queue Times API
+- 🎬 Animations
+- 🔹 Provide information about identity theft and fraud and also guide users on how to stay safe from them.
+- 📲 Incorporated tap gestures to improve the app experience
