@@ -92,7 +92,7 @@ Celebrate special events with PARSL's immersive AR lenses and avatars, adding fu
 
 
 <p align="center">
-<img src="hair.png", width="400"/>
+<img src="parsel.png", width="700"/>
 
 </p>
 
@@ -112,7 +112,7 @@ This app allows you to book hair and beard services at our global salon branches
 
 
 <p align="center">
-<img src="hair.png", width="600"/>
+<img src="hair.png", width="400"/>
 
 </p>
 
