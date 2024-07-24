@@ -23,6 +23,7 @@ Protecting your digital life is of paramount importance. A comprehensive persona
 
 - ⏲️ Timers
 - ⚙︎ VPN Configuration
+- 💵 In App Purchase
 - 💿 Core Data
 - 🏦 App Storage
 - 💰 IAP
