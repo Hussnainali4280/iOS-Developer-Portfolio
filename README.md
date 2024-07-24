@@ -6,7 +6,7 @@
 
 # [CloakedPrivacy](https://apps.apple.com/us/app/cloakedprivacy/id1661832241)
 
-I built high quality, user centric iOS applications using Swift, ensuing optimal performance and seamless user experience. Collaborate with cross functional teams to define, design, and ship new features, maintaing code quality through effective testing and best practices. Stay updated with the latest iOS developement trends and technologies, continuously improving skills to drive innovation and efficency in app development.
+Protecting your digital life is of paramount importance. A comprehensive personal cybersecurity app, CloakedPrivacy, has been designed to shield your privacy, secure your data, and safeguard your digital identity.
 
 
 
@@ -37,7 +37,7 @@ I built high quality, user centric iOS applications using Swift, ensuing optimal
 
 # [Vesgo](https://apps.apple.com/us/app/vesgo/id1523259331)
 
-In this app, users can build personalized portfolios that aligned with their values, investment time horizon, and risk tolerance. The app provides new about investment ideas and track user's goals.  
+In this app, user can build personalized portfolios that aligned with their values, investment time horizon, and risk tolerance. The app provides new about investment ideas and track user goals.  
 
 
 
@@ -60,7 +60,7 @@ In this app, users can build personalized portfolios that aligned with their val
 
 # [Cytex Authenticator](https://apps.apple.com/us/app/cytex-authenticator/id1538584126)
 
-Cytex Aythenticator provides robuts multi-factor authentication for registered users, essential for enterprise IT security. Cytex Secure, using Wiregurad, facilitates secure peer-to-peer connections, while Cytex2FA manages identity within the Zero Trust Network Architecture.
+Cytex Aythenticator provides robuts multi-factor authentication for registered user, essential for enterprise IT security. Cytex Secure, using Wiregurad, facilitates secure peer-to-peer connections, while Cytex2FA manages identity within the Zero Trust Network Architecture.
 
 
 
