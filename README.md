@@ -2,7 +2,7 @@
 
 ![Hussnain Ali LinkedIn Banner](portfolio.png)         
  
-### 👋 Hi! I'm a self-taught freelance/indie iOS Developer. Here's a bit of what I've been working on.
+### 👋 Hi! I'm a self-taught freelancer/indie iOS Developer. Here's a bit of what I've been working on.
 
 # [CloakedPrivacy](https://apps.apple.com/us/app/cloakedprivacy/id1661832241)
 
