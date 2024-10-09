@@ -124,3 +124,27 @@ This app allows you to book hair and beard services at our global salon branches
 - 🎬 Animations
 - 🔹 Provide information about identity theft and fraud and also guide users on how to stay safe from them.
 - 📲 Incorporated tap gestures to improve the app experience
+
+
+
+# [Chance](Project )
+
+Login & Registration: An intuitive login screen with options for users to register by creating a username, password, display name, and group, with customizable privacy settings.
+Feed & Notifications: The feed is designed like a Twitter timeline with filters for types of bets, live vs pre-game, and a trending/following toggle for easy navigation.
+Groups & Communication: Group creation allows users to set messaging permissions and invite members, with profanity filter settings that ban hate speech.
+Bet Management: Users can easily manage bets with detailed slips including sports, odds, markets, risk, and profit, all with clear visual feedback.
+Profile & Analytics: Comprehensive profile pages display bet performance through customizable filters, real-time analysis, and detailed profit/loss stats, aiding strategic decisions.
+
+<p align="center">
+<img src="hair.png", width="400"/>
+
+</p>
+
+
+- 💿 Firebase
+- 💿 SwiftUI
+- 🏦 App Storage
+- ⏱️ Queue Times API
+- 🎬 Animations
+- 🔹 Provide information about Change.
+- 📲 Incorporated tap gestures to improve the app experience
