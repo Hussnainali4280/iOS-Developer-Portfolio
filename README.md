@@ -2,7 +2,7 @@
 
 ![Hussnain Ali LinkedIn Banner](portfolio.png)         
  
-### 👋 Hi! I'm a self-taught freelancer/indie iOS Developer. Here's a bit of what I've been working on.
+### 👋 Hi! I'm a self-taught iOS Developer. Here's a bit of what I've been working on.
 
 # [CloakedPrivacy](https://apps.apple.com/us/app/cloakedprivacy/id1661832241)
 
@@ -136,7 +136,7 @@ Bet Management: Users can easily manage bets with detailed slips including sport
 Profile & Analytics: Comprehensive profile pages display bet performance through customizable filters, real-time analysis, and detailed profit/loss stats, aiding strategic decisions.
 
 <p align="center">
-<img src="hair.png", width="400"/>
+<img src="Screenshot 2024-10-09 at 4.29.34 PM.png", width="400"/>
 
 </p>
 
