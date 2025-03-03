@@ -4,6 +4,17 @@
  
 ### 👋 Hi! I'm a self-taught iOS Developer. Here's a bit of what I've been working on.
 
+
+# [ChemZero](https://apps.apple.com/my/app/chemzero-pfas-checker/id6739990764)
+
+In this app we empower app users by encouraging the use of clean, sustainable products that are safe for their health and the environment. Our platform provides detailed insights into product ingredients, ensuring transparency and informed choices. By promoting eco-friendly and non-toxic alternatives, we help users adopt a healthier and more conscious lifestyle. Together, we strive to create a positive impact on personal well-being and the planet.
+
+<p align="center">
+<img src="ChemZero.pn", width="600"/>
+
+</p>
+
+
 # [CloakedPrivacy](https://apps.apple.com/us/app/cloakedprivacy/id1661832241)
 
 Protecting your digital life is of paramount importance. A comprehensive personal cybersecurity app, CloakedPrivacy, has been designed to shield your privacy, secure your data, and safeguard your digital identity.
