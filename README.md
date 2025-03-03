@@ -10,9 +10,15 @@
 In this app we empower app users by encouraging the use of clean, sustainable products that are safe for their health and the environment. Our platform provides detailed insights into product ingredients, ensuring transparency and informed choices. By promoting eco-friendly and non-toxic alternatives, we help users adopt a healthier and more conscious lifestyle. Together, we strive to create a positive impact on personal well-being and the planet.
 
 <p align="center">
-<img src="ChemZero.pn", width="600"/>
-
+<img src="ChemZero.png", width="600"/>
 </p>
+
+- 📝 Advanced Text Scanning Technology
+- 🤖 AI-Powered Text Recognition & Chat
+- 🔥 Seamless Firebase Integration
+- 🔐 Secure KyeChain Authentication
+- 💾 Efficient Local Database Management
+- 🛒 Integrated In-App Purchase System
 
 
 # [CloakedPrivacy](https://apps.apple.com/us/app/cloakedprivacy/id1661832241)
