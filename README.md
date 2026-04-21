@@ -1,6 +1,6 @@
 # Senior iOS-Developer-Portfolio
 
-![Hussnain Ali LinkedIn Banner](portfolio.png)         
+![Hussnain Ali LinkedIn Banner](protfolio1.png)         
  
 ### 👋 Lead iOS Developer with expertise in Swift, SwiftUI Objective-C, and scalable architecture to deliver high- performance mobile applications. Proven ability to optimize app performance, implement secure authentication, and enhance user engagement through best coding practices and cross-functional collaboration. Focused on driving innovation and quality to achieve impactful product growth and superior user experiences.
 
