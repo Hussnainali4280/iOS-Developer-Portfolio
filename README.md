@@ -1,9 +1,23 @@
-# iOS-Developer-Portfolio
+# Senior iOS-Developer-Portfolio
 
 ![Hussnain Ali LinkedIn Banner](portfolio.png)         
  
-### 👋 Hi! I'm a self-taught iOS Developer. Here's a bit of what I've been working on.
+### 👋 Lead iOS Developer with expertise in Swift, SwiftUI Objective-C, and scalable architecture to deliver high- performance mobile applications. Proven ability to optimize app performance, implement secure authentication, and enhance user engagement through best coding practices and cross-functional collaboration. Focused on driving innovation and quality to achieve impactful product growth and superior user experiences.
 
+# [Aura: English HD](https://apps.apple.com/au/app/aura-english-hd/id1527934446)
+
+Aura is a revolutionary English-learning platform that teaches American pronunciation using a color-based sound system (English HD). By mapping each sound to a specific color, Aura simplifies pronunciation learning, supports multilingual word translation, and offers flashcards, video lessons, and a comprehensive 12-day master course.
+
+# [HomeFresh](https://apps.apple.com/us/app/homefresh/id6746563748)
+
+Architected a scalable, dual-sided marketplace connecting users with certified local home
+kitchens.
+Customer App: Enabled seamless discovery, ordering, and payment for high-quality, home-cooked meals.
+Provider App: Delivered a unified platform for kitchens to manage menus, process orders, display reviews, and automate payments.
+
+# [TrackHero](https://apps.apple.com/my/app/trackhero-team/id6474099873)
+
+TrackHero is a powerful, web-based event management platform built for flexibility and ease of use. Plan and manage events effortlessly, whether you're in the office or on the go. Streamline reservations, payments, and customer tracking from a single dashboard. Stay organized with integrated task management and real-time updates. Gain insights and control with a centralized, intuitive interface. Perfect for teams who need efficiency, mobility, and scalability in one solution.
 
 # [ChemZero](https://apps.apple.com/my/app/chemzero-pfas-checker/id6739990764)
 
